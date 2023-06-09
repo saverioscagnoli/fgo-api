@@ -1,0 +1,63 @@
+{
+  "name": "Trung Sisters",
+  "jpName": "徴姉妹",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Hai Ba Trung",
+    "Hai Bà Trưng",
+    "Trưng Trắc",
+    "Trưng Nhị"
+  ],
+  "id": 337,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1838,
+      "max": 11898,
+      "lvl100": 13024,
+      "lvl120": 15288
+    },
+    "hp": {
+      "min": 2089,
+      "max": 14248,
+      "lvl100": 15609,
+      "lvl120": 18345
+    }
+  },
+  "va": "Kondo Reina, Ito Kanae",
+  "illustrator": "Take",
+  "attribute": "Man",
+  "growthCurve": "Semi Reverse S",
+  "stars": {
+    "absorption": 100,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "0.43%",
+    "def": "3%"
+  },
+  "deathRate": "21%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Divine",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Stout Defender",
+    "Weak to Enuma Elish"
+  ]
+}

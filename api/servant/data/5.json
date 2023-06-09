@@ -1,0 +1,62 @@
+{
+  "name": "Nero Claudius",
+  "jpName": "ネロ・クラウディウス",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Emperor of Roses",
+    "Red Saber",
+    "Nero Claudius Caesar Augustus Germanicus"
+  ],
+  "id": 5,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1574,
+      "max": 9449,
+      "lvl100": 11441,
+      "lvl120": 13433
+    },
+    "hp": {
+      "min": 1880,
+      "max": 11753,
+      "lvl100": 14250,
+      "lvl120": 16748
+    }
+  },
+  "va": "Tange Sakura",
+  "illustrator": "Wada Arco",
+  "attribute": "Man",
+  "growthCurve": "Reverse S",
+  "stars": {
+    "absorption": 102,
+    "generation": "10.1%"
+  },
+  "npCharge": {
+    "atk": "0.84%",
+    "def": "3%"
+  },
+  "deathRate": "24.5%",
+  "alignments": [
+    "Chaotic",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Artoria Face",
+    "Costume-Owning",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Roman",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

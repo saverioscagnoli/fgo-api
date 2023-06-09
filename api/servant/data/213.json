@@ -1,0 +1,62 @@
+{
+  "name": "Sigurd",
+  "jpName": "シグルド",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Siegfried",
+    "King of Warriors"
+  ],
+  "id": 213,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1926,
+      "max": 12465,
+      "lvl100": 13645,
+      "lvl120": 16016
+    },
+    "hp": {
+      "min": 2049,
+      "max": 13975,
+      "lvl100": 15310,
+      "lvl120": 17994
+    }
+  },
+  "va": "Tsuda Kenjirō",
+  "illustrator": "Miwa Shirō",
+  "attribute": "Earth",
+  "growthCurve": "S",
+  "stars": {
+    "absorption": 97,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.62%",
+    "def": "3%"
+  },
+  "deathRate": "28%",
+  "alignments": [
+    "Neutral",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Costume-Owning",
+    "Divine",
+    "Dragon",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Nero Claudius (Bride)",
+  "jpName": "ネロ・クラウディウス 〔ブライド〕",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Saber Bride"
+  ],
+  "id": 90,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1793,
+      "max": 11607,
+      "lvl100": 12706,
+      "lvl120": 14914
+    },
+    "hp": {
+      "min": 2089,
+      "max": 14248,
+      "lvl100": 15609,
+      "lvl120": 18345
+    }
+  },
+  "va": "Tange Sakura",
+  "illustrator": "Wada Arco",
+  "attribute": "Man",
+  "growthCurve": "Semi S",
+  "stars": {
+    "absorption": 102,
+    "generation": "10.1%"
+  },
+  "npCharge": {
+    "atk": "0.7%",
+    "def": "3%"
+  },
+  "deathRate": "35%",
+  "alignments": [
+    "Chaotic",
+    "Bride"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Artoria Face",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Roman",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

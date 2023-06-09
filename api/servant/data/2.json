@@ -1,0 +1,69 @@
+{
+  "name": "Artoria Pendragon",
+  "jpName": "アルトリア・ペンドラゴン",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "King of Knights of the Holy Sword",
+    "King of Knights",
+    "Legendary Ruler who drew the Sword of Selection",
+    "Altria Pendragon",
+    "Arturia Pendragon",
+    "King Arthur",
+    "Blue Saber"
+  ],
+  "id": 2,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1734,
+      "max": 11221,
+      "lvl100": 12283,
+      "lvl120": 14418
+    },
+    "hp": {
+      "min": 2222,
+      "max": 15150,
+      "lvl100": 16597,
+      "lvl120": 19506
+    }
+  },
+  "va": "Kawasumi Ayako",
+  "illustrator": "Takeuchi Takashi",
+  "attribute": "Earth",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 102,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.86%",
+    "def": "3%"
+  },
+  "deathRate": "21%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Arthur",
+    "Artoria Face",
+    "Costume-Owning",
+    "Dragon",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Round Table Knight",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

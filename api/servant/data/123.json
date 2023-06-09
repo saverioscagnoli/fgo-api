@@ -1,0 +1,60 @@
+{
+  "name": "Gawain",
+  "jpName": "ガウェイン",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Holy Sword of the Sun Knight of the Sun",
+    "White Knight of the Round Table"
+  ],
+  "id": 123,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1695,
+      "max": 10173,
+      "lvl100": 12317,
+      "lvl120": 14462
+    },
+    "hp": {
+      "min": 1827,
+      "max": 11419,
+      "lvl100": 13845,
+      "lvl120": 16272
+    }
+  },
+  "va": "Mizushima Takahiro",
+  "illustrator": "Wada Arco",
+  "attribute": "Earth",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 102,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "1.14%",
+    "def": "3%"
+  },
+  "deathRate": "21%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Costume-Owning",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Round Table Knight",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

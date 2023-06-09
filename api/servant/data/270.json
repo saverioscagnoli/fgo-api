@@ -1,0 +1,60 @@
+{
+  "name": "Astolfo",
+  "jpName": "アストルフォ",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Knight of Evaporated Sanity",
+    "Sailor Paladin"
+  ],
+  "id": 270,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1807,
+      "max": 11694,
+      "lvl100": 12801,
+      "lvl120": 15025
+    },
+    "hp": {
+      "min": 2089,
+      "max": 14248,
+      "lvl100": 15609,
+      "lvl120": 18345
+    }
+  },
+  "va": "Ookubo Rumi",
+  "illustrator": "Konoe Ototsugu",
+  "attribute": "Earth",
+  "growthCurve": "Reverse S",
+  "stars": {
+    "absorption": 103,
+    "generation": "10.1%"
+  },
+  "npCharge": {
+    "atk": "0.52%",
+    "def": "3%"
+  },
+  "deathRate": "24.5%",
+  "alignments": [
+    "Chaotic",
+    "Good"
+  ],
+  "gender": "Unknown",
+  "traits": [
+    "Animal Characteristics Servant",
+    "Feminine Looking",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

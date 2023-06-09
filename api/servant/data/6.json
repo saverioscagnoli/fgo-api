@@ -1,0 +1,62 @@
+{
+  "name": "Siegfried",
+  "jpName": "ジークフリート",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Sigurd",
+    "Tenacious Dragon Slayer Saber of Black",
+    "Dragon-Blooded Knight"
+  ],
+  "id": 6,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1363,
+      "max": 8181,
+      "lvl100": 9905,
+      "lvl120": 11630
+    },
+    "hp": {
+      "min": 2266,
+      "max": 14165,
+      "lvl100": 17175,
+      "lvl120": 20185
+    }
+  },
+  "va": "Suwabe Junichi",
+  "illustrator": "Konoe Ototsugu",
+  "attribute": "Earth",
+  "growthCurve": "S",
+  "stars": {
+    "absorption": 97,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.83%",
+    "def": "3%"
+  },
+  "deathRate": "28%",
+  "alignments": [
+    "Chaotic",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Costume-Owning",
+    "Dragon",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

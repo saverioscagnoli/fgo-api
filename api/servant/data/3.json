@@ -1,0 +1,65 @@
+{
+  "name": "Artoria Pendragon (Alter)",
+  "jpName": "アルトリア・ペンドラゴン〔オルタ〕",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Saber Alter",
+    "Dark-Tainted Tyrant",
+    "Artoria Alter",
+    "Black Saber",
+    "Salter"
+  ],
+  "id": 3,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1708,
+      "max": 10248,
+      "lvl100": 12408,
+      "lvl120": 14569
+    },
+    "hp": {
+      "min": 1854,
+      "max": 11589,
+      "lvl100": 14051,
+      "lvl120": 16514
+    }
+  },
+  "va": "Kawasumi Ayako",
+  "illustrator": "Takeuchi Takashi",
+  "attribute": "Man",
+  "growthCurve": "S",
+  "stars": {
+    "absorption": 99,
+    "generation": "9.9%"
+  },
+  "npCharge": {
+    "atk": "0.86%",
+    "def": "3%"
+  },
+  "deathRate": "19.2%",
+  "alignments": [
+    "Lawful",
+    "Evil"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Arthur",
+    "Artoria Face",
+    "Costume-Owning",
+    "Dragon",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Round Table Knight",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

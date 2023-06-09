@@ -1,0 +1,61 @@
+{
+  "name": "Barghest",
+  "jpName": "妖精騎士ガウェイン; バーゲスト",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Tam Lin Gawain",
+    "Faerie Knight Gawain",
+    "Bage-ko",
+    "Demon Hound Barghest"
+  ],
+  "id": 310,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1453,
+      "max": 8721,
+      "lvl100": 10559,
+      "lvl120": 12398
+    },
+    "hp": {
+      "min": 2163,
+      "max": 13521,
+      "lvl100": 16394,
+      "lvl120": 19268
+    }
+  },
+  "va": "Inoue Marina",
+  "illustrator": "MELON22",
+  "attribute": "Earth",
+  "growthCurve": "Semi S",
+  "stars": {
+    "absorption": 99,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "0.74%",
+    "def": "3%"
+  },
+  "deathRate": "28%",
+  "alignments": [
+    "Chaotic",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Animal Characteristics Servant",
+    "Brynhildr's Beloved",
+    "Demonic Beast Servant",
+    "Fae",
+    "Humanoid",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

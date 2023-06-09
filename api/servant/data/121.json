@@ -1,0 +1,60 @@
+{
+  "name": "Lancelot",
+  "jpName": "ランスロット",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Sir Lancelot du Lac",
+    "Lord of Joyous Gard",
+    "Knight of the Lake"
+  ],
+  "id": 121,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1658,
+      "max": 9949,
+      "lvl100": 12046,
+      "lvl120": 14144
+    },
+    "hp": {
+      "min": 1854,
+      "max": 11589,
+      "lvl100": 14051,
+      "lvl120": 16514
+    }
+  },
+  "va": "Okiayu Ryoutarou",
+  "illustrator": "Shimadoriru",
+  "attribute": "Earth",
+  "growthCurve": "S",
+  "stars": {
+    "absorption": 100,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.83%",
+    "def": "3%"
+  },
+  "deathRate": "28%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Round Table Knight",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

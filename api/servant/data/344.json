@@ -1,0 +1,57 @@
+{
+  "name": "Roland",
+  "jpName": "ローラン",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Orlando"
+  ],
+  "id": 344,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1614,
+      "max": 9687,
+      "lvl100": 11729,
+      "lvl120": 13771
+    },
+    "hp": {
+      "min": 1966,
+      "max": 12293,
+      "lvl100": 14905,
+      "lvl120": 17518
+    }
+  },
+  "va": "Terashima Takuma",
+  "illustrator": "Sakamoto Mineji",
+  "attribute": "Earth",
+  "growthCurve": "Reverse S",
+  "stars": {
+    "absorption": 100,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.83%",
+    "def": "3%"
+  },
+  "deathRate": "28%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

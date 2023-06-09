@@ -1,0 +1,60 @@
+{
+  "name": "Bedivere",
+  "jpName": "ベディヴィエール",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "The Silver Arm Lucius",
+    "The Shining Airgetlám",
+    "Wandering Knight"
+  ],
+  "id": 126,
+  "cost": 7,
+  "stats": {
+    "atk": {
+      "min": 1416,
+      "max": 7627,
+      "lvl100": 10322,
+      "lvl120": 12123
+    },
+    "hp": {
+      "min": 1727,
+      "max": 9595,
+      "lvl100": 13009,
+      "lvl120": 15291
+    }
+  },
+  "va": "Miyano Mamoru",
+  "illustrator": "Tenkuu Sphere",
+  "attribute": "Star",
+  "growthCurve": "S",
+  "stars": {
+    "absorption": 100,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "1.11%",
+    "def": "3%"
+  },
+  "deathRate": "28%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Costume-Owning",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Round Table Knight",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Saitō Hajime",
+  "jpName": "斎藤一",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Hajime-chan"
+  ],
+  "id": 293,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1570,
+      "max": 9425,
+      "lvl100": 11412,
+      "lvl120": 13399
+    },
+    "hp": {
+      "min": 1899,
+      "max": 11873,
+      "lvl100": 14396,
+      "lvl120": 16919
+    }
+  },
+  "va": "Ishikawa Kaito",
+  "illustrator": "Ikezawa Shin",
+  "attribute": "Man",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 102,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.76%",
+    "def": "3%"
+  },
+  "deathRate": "35%",
+  "alignments": [
+    "Lawful",
+    "Balanced"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Costume-Owning",
+    "Hominidae Servant",
+    "Humanoid",
+    "Servant",
+    "Seven Knights Servant",
+    "Shinsengumi Servant",
+    "Weak to Enuma Elish"
+  ]
+}

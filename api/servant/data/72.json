@@ -1,0 +1,55 @@
+{
+  "name": "Fergus mac Róich",
+  "jpName": "フェルグス・マック・ロイ",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": null,
+  "id": 72,
+  "cost": 7,
+  "stats": {
+    "atk": {
+      "min": 1385,
+      "max": 7460,
+      "lvl100": 10096,
+      "lvl120": 11858
+    },
+    "hp": {
+      "min": 1761,
+      "max": 9786,
+      "lvl100": 13268,
+      "lvl120": 15596
+    }
+  },
+  "va": "Kuroda Takaya",
+  "illustrator": "B-suke",
+  "attribute": "Earth",
+  "growthCurve": "Semi Reverse S",
+  "stars": {
+    "absorption": 99,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "1.09%",
+    "def": "3%"
+  },
+  "deathRate": "35%",
+  "alignments": [
+    "Lawful",
+    "Balanced"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

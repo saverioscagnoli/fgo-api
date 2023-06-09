@@ -1,0 +1,54 @@
+{
+  "name": "Karna (Santa)",
+  "jpName": "カルナ〔サンタ〕",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": null,
+  "id": 301,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1530,
+      "max": 9180,
+      "lvl100": 11115,
+      "lvl120": 13050
+    },
+    "hp": {
+      "min": 2060,
+      "max": 12877,
+      "lvl100": 15613,
+      "lvl120": 18350
+    }
+  },
+  "va": "Yusa Kōji",
+  "illustrator": "pako",
+  "attribute": "Sky",
+  "growthCurve": "",
+  "stars": {
+    "absorption": 99,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "0.78%",
+    "def": "3%"
+  },
+  "deathRate": "31.5%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Divine",
+    "Hominidae Servant",
+    "Humanoid",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

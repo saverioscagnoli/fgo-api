@@ -1,0 +1,63 @@
+{
+  "name": "Altera",
+  "jpName": "アルテラ",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Great King of Destruction Attila the Hun",
+    "Destroyer of Civilization",
+    "Etzel",
+    "King of Combat"
+  ],
+  "id": 8,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1907,
+      "max": 12343,
+      "lvl100": 13511,
+      "lvl120": 15859
+    },
+    "hp": {
+      "min": 2039,
+      "max": 13907,
+      "lvl100": 15236,
+      "lvl120": 17906
+    }
+  },
+  "va": "Noto Mamiko",
+  "illustrator": "huke",
+  "attribute": "Man",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 102,
+    "generation": "10.1%"
+  },
+  "npCharge": {
+    "atk": "0.84%",
+    "def": "3%"
+  },
+  "deathRate": "24.5%",
+  "alignments": [
+    "Chaotic",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Costume-Owning",
+    "Divine",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

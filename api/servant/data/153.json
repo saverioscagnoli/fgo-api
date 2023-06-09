@@ -1,0 +1,60 @@
+{
+  "name": "Miyamoto Musashi",
+  "jpName": "宮本武蔵; 新免武蔵守藤原玄信",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Flower of Tengen",
+    "Shinmen Musashi no Kami Fujiwara no HarunobuBennosuke",
+    "Niten Dōraku",
+    "Shinmen Takezō",
+    "DATA LOST"
+  ],
+  "id": 153,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1860,
+      "max": 12037,
+      "lvl100": 13176,
+      "lvl120": 15466
+    },
+    "hp": {
+      "min": 1999,
+      "max": 13635,
+      "lvl100": 14938,
+      "lvl120": 17556
+    }
+  },
+  "va": "Sakura Ayane",
+  "illustrator": "Koyama Hirokazu",
+  "attribute": "Man",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 100,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.87%",
+    "def": "3%"
+  },
+  "deathRate": "35%",
+  "alignments": [
+    "Chaotic",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Hominidae Servant",
+    "Humanoid",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

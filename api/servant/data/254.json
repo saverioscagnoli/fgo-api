@@ -1,0 +1,59 @@
+{
+  "name": "Jason",
+  "jpName": "イアソン",
+  "class": "saber",
+  "rarity": [
+    "*"
+  ],
+  "aka": [
+    "Leader of the Argonauts",
+    "Hero Scout",
+    "Aeson",
+    "Jasão"
+  ],
+  "id": 254,
+  "cost": 3,
+  "stats": {
+    "atk": {
+      "min": 992,
+      "max": 5457,
+      "lvl100": 8479,
+      "lvl120": 9993
+    },
+    "hp": {
+      "min": 1515,
+      "max": 7575,
+      "lvl100": 11677,
+      "lvl120": 13731
+    }
+  },
+  "va": "Hoshi Soichirou",
+  "illustrator": "BLACK",
+  "attribute": "Earth",
+  "growthCurve": "Semi Reverse S",
+  "stars": {
+    "absorption": 102,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.37%",
+    "def": "3%"
+  },
+  "deathRate": "31.5%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Argo-Related",
+    "Brynhildr's Beloved",
+    "Greek Mythology Male",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

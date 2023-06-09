@@ -1,0 +1,68 @@
+{
+  "name": "Ibuki Dōji",
+  "jpName": "伊吹童子",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Shuten Dōji",
+    "Ibuki Douji"
+  ],
+  "id": 299,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1964,
+      "max": 12709,
+      "lvl100": 13912,
+      "lvl120": 16330
+    },
+    "hp": {
+      "min": 1979,
+      "max": 13498,
+      "lvl100": 14788,
+      "lvl120": 17379
+    }
+  },
+  "va": "Yūki Aoi",
+  "illustrator": "Honjou Raita",
+  "attribute": "Sky",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 98,
+    "generation": "9.9%"
+  },
+  "npCharge": {
+    "atk": "0.78%",
+    "def": "3%"
+  },
+  "deathRate": "17.5%",
+  "alignments": [
+    "Chaotic",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Animal Characteristics Servant",
+    "Costume-Owning",
+    "Demonic",
+    "Demonic Beast Servant",
+    "Divine",
+    "Divine Spirit",
+    "Dragon",
+    "Giant",
+    "Goddess Servant",
+    "Immune to Pigify",
+    "Levitating Servant",
+    "Oni",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

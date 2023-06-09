@@ -1,0 +1,65 @@
+{
+  "name": "Dioscuri",
+  "jpName": "ディオスクロイ",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Dioskouroi",
+    "the Gemini Twins",
+    "Castor & Pollux"
+  ],
+  "id": 278,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1829,
+      "max": 11840,
+      "lvl100": 12961,
+      "lvl120": 15213
+    },
+    "hp": {
+      "min": 2174,
+      "max": 14824,
+      "lvl100": 16240,
+      "lvl120": 19087
+    }
+  },
+  "va": "Uchida Yuuma, Uchida Maaya",
+  "illustrator": "Taiki",
+  "attribute": "Sky",
+  "growthCurve": "Semi Reverse S",
+  "stars": {
+    "absorption": 99,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.51%",
+    "def": "3%"
+  },
+  "deathRate": "28%",
+  "alignments": [
+    "Chaotic",
+    "Balanced"
+  ],
+  "gender": "Unknown",
+  "traits": [
+    "Argo-Related",
+    "Brynhildr's Beloved",
+    "Divine",
+    "Divine Spirit",
+    "Feminine Looking",
+    "Hominidae Servant",
+    "Humanoid",
+    "Immune to Pigify",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

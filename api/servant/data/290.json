@@ -1,0 +1,58 @@
+{
+  "name": "Tomoe Gozen",
+  "jpName": "巴御前",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": null,
+  "id": 290,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1590,
+      "max": 9544,
+      "lvl100": 11556,
+      "lvl120": 13568
+    },
+    "hp": {
+      "min": 1957,
+      "max": 12233,
+      "lvl100": 14832,
+      "lvl120": 17432
+    }
+  },
+  "va": "Kanemoto Hisako",
+  "illustrator": "Shirabi",
+  "attribute": "Earth",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 102,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.55%",
+    "def": "3%"
+  },
+  "deathRate": "24.5%",
+  "alignments": [
+    "Neutral",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Demonic",
+    "Genji",
+    "Hominidae Servant",
+    "Humanoid",
+    "Oni",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Summer Mode Servant",
+    "Weak to Enuma Elish"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Frankenstein",
+  "jpName": "フランケンシュタイン",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": null,
+  "id": 176,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1558,
+      "max": 9353,
+      "lvl100": 11325,
+      "lvl120": 13297
+    },
+    "hp": {
+      "min": 1919,
+      "max": 11993,
+      "lvl100": 14541,
+      "lvl120": 17090
+    }
+  },
+  "va": "Nonaka Ai",
+  "illustrator": "Okazaki Takeshi",
+  "attribute": "Earth",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 102,
+    "generation": "9.9%"
+  },
+  "npCharge": {
+    "atk": "0.70%",
+    "def": "3%"
+  },
+  "deathRate": "31.5%",
+  "alignments": [
+    "Neutral",
+    "Summer"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Hominidae Servant",
+    "Humanoid",
+    "Mechanical",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Summer Mode Servant",
+    "Weak to Enuma Elish"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Lakshmibai",
+  "jpName": "ラクシュミー・バーイー",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Lakshmi Bai",
+    "Rani of Jhansi",
+    "Jeanne d'Arc of India"
+  ],
+  "id": 245,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1658,
+      "max": 9949,
+      "lvl100": 12046,
+      "lvl120": 14144
+    },
+    "hp": {
+      "min": 1818,
+      "max": 11362,
+      "lvl100": 13776,
+      "lvl120": 16191
+    }
+  },
+  "va": "Satou Rina",
+  "illustrator": "Takeuchi Takashi",
+  "attribute": "Man",
+  "growthCurve": "Reverse S",
+  "stars": {
+    "absorption": 96,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "1.01%",
+    "def": "3%"
+  },
+  "deathRate": "28%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Artoria Face",
+    "Divine",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Stout Defender",
+    "Weak to Enuma Elish"
+  ]
+}

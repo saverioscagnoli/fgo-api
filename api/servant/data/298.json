@@ -1,0 +1,56 @@
+{
+  "name": "Watanabe no Tsuna",
+  "jpName": "渡辺綱",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": null,
+  "id": 298,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1687,
+      "max": 10123,
+      "lvl100": 12257,
+      "lvl120": 14391
+    },
+    "hp": {
+      "min": 1799,
+      "max": 11248,
+      "lvl100": 13638,
+      "lvl120": 16029
+    }
+  },
+  "va": "Akabane Kenji",
+  "illustrator": "Hidari",
+  "attribute": "Man",
+  "growthCurve": "Semi Reverse S",
+  "stars": {
+    "absorption": 100,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "0.6%",
+    "def": "3%"
+  },
+  "deathRate": "28%",
+  "alignments": [
+    "Neutral",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Genji",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

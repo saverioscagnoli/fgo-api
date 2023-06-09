@@ -1,0 +1,60 @@
+{
+  "name": "Okita Sōji",
+  "jpName": "沖田総司",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Okita Souji",
+    "Sakura Saber"
+  ],
+  "id": 68,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1865,
+      "max": 12068,
+      "lvl100": 13210,
+      "lvl120": 15506
+    },
+    "hp": {
+      "min": 1939,
+      "max": 13225,
+      "lvl100": 14489,
+      "lvl120": 17028
+    }
+  },
+  "va": "Yūki Aoi",
+  "illustrator": "Takeuchi Takashi",
+  "attribute": "Man",
+  "growthCurve": "Reverse S",
+  "stars": {
+    "absorption": 98,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "1.09%",
+    "def": "3%"
+  },
+  "deathRate": "35%",
+  "alignments": [
+    "Neutral",
+    "Balanced"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Artoria Face",
+    "Costume-Owning",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Shinsengumi Servant",
+    "Weak to Enuma Elish"
+  ]
+}

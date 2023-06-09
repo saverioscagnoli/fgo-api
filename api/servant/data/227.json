@@ -1,0 +1,61 @@
+{
+  "name": "Lanling Wang",
+  "jpName": "蘭陵王",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Prince of Lan Ling",
+    "Lan Ling Wang",
+    "Ran-ryō Ō",
+    "Gao Changgong"
+  ],
+  "id": 227,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1518,
+      "max": 9112,
+      "lvl100": 11033,
+      "lvl120": 12954
+    },
+    "hp": {
+      "min": 2020,
+      "max": 12625,
+      "lvl100": 15308,
+      "lvl120": 17991
+    }
+  },
+  "va": "Mori Nanako",
+  "illustrator": "hou",
+  "attribute": "Man",
+  "growthCurve": "Reverse S",
+  "stars": {
+    "absorption": 98,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "0.65%",
+    "def": "3%"
+  },
+  "deathRate": "31.5%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Costume-Owning",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

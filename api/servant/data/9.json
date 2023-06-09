@@ -1,0 +1,54 @@
+{
+  "name": "Gilles de Rais",
+  "jpName": "ジル・ド・レェ",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": null,
+  "id": 9,
+  "cost": 7,
+  "stats": {
+    "atk": {
+      "min": 1228,
+      "max": 6615,
+      "lvl100": 8952,
+      "lvl120": 10515
+    },
+    "hp": {
+      "min": 1889,
+      "max": 10498,
+      "lvl100": 14234,
+      "lvl120": 16730
+    }
+  },
+  "va": "Tsuruoka Satoshi",
+  "illustrator": "Shinjirō",
+  "attribute": "Man",
+  "growthCurve": "S",
+  "stars": {
+    "absorption": 98,
+    "generation": "9.9%"
+  },
+  "npCharge": {
+    "atk": "0.82%",
+    "def": "3%"
+  },
+  "deathRate": "31.5%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

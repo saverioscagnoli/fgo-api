@@ -1,0 +1,60 @@
+{
+  "name": "Gaius Julius Caesar",
+  "jpName": "ガイウス・ユリウス・カエサル",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Julius Caesar",
+    "Red Saber"
+  ],
+  "id": 7,
+  "cost": 7,
+  "stats": {
+    "atk": {
+      "min": 1392,
+      "max": 7497,
+      "lvl100": 10146,
+      "lvl120": 11917
+    },
+    "hp": {
+      "min": 1727,
+      "max": 9595,
+      "lvl100": 13009,
+      "lvl120": 15291
+    }
+  },
+  "va": "Okiayu Ryoutarou",
+  "illustrator": "Shimadoriru",
+  "attribute": "Man",
+  "growthCurve": "S",
+  "stars": {
+    "absorption": 99,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "1.1%",
+    "def": "3%"
+  },
+  "deathRate": "31.5%",
+  "alignments": [
+    "Neutral",
+    "Balanced"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Divine",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Roman",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

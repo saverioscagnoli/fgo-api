@@ -20,6 +20,19 @@ declare global {
       GROWTH_CURVE: string;
       STAR_ABSORPTION: string;
       STAR_GENERATION: string;
+      NP_CHARGE_ATK: string;
+      NP_CHARGE_DEF: string;
+      DEATH_RATE: string;
+      ALIGNMENTS: string;
+      GENDER: string;
+      TRAITS: string;
+      STAGE_1: string;
+      STAGE_2: string;
+      STAGE_3: string;
+      STAGE_4: string;
+      IMAGES: string;
+      TB: string;
+      BASE_URL: string;
     }
   }
 }

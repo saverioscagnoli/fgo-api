@@ -1,0 +1,57 @@
+{
+  "name": "Rama",
+  "jpName": "ラーマ",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": null,
+  "id": 101,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1642,
+      "max": 9854,
+      "lvl100": 11931,
+      "lvl120": 14009
+    },
+    "hp": {
+      "min": 1901,
+      "max": 11993,
+      "lvl100": 14541,
+      "lvl120": 17090
+    }
+  },
+  "va": "Sawashiro Miyuki",
+  "illustrator": "Rin Kususaga",
+  "attribute": "Sky",
+  "growthCurve": "Semi Reverse S",
+  "stars": {
+    "absorption": 100,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "0.84%",
+    "def": "3%"
+  },
+  "deathRate": "24.5%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Divine",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

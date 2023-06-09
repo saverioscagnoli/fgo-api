@@ -1,0 +1,59 @@
+{
+  "name": "Ryōgi Shiki",
+  "jpName": "両儀式",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "「Ryōgi Shiki」",
+    "Void Shiki",
+    "Saber Shiki"
+  ],
+  "id": 91,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1656,
+      "max": 10721,
+      "lvl100": 11736,
+      "lvl120": 13775
+    },
+    "hp": {
+      "min": 2266,
+      "max": 15453,
+      "lvl100": 16929,
+      "lvl120": 19897
+    }
+  },
+  "va": "Sakamoto Maaya",
+  "illustrator": "Takeuchi Takashi",
+  "attribute": "Man",
+  "growthCurve": "S",
+  "stars": {
+    "absorption": 102,
+    "generation": "9.9%"
+  },
+  "npCharge": {
+    "atk": "0.84%",
+    "def": "3%"
+  },
+  "deathRate": "24.5%",
+  "alignments": [
+    "Neutral",
+    "Balanced"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Costume-Owning",
+    "Hominidae Servant",
+    "Humanoid",
+    "Immune to Pigify",
+    "Servant",
+    "Seven Knights Servant"
+  ]
+}

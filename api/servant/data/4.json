@@ -1,0 +1,61 @@
+{
+  "name": "Artoria Pendragon (Lily)",
+  "jpName": "アルトリア・ペンドラゴン〔リリィ〕",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Saber Lily",
+    "Artoria Lily"
+  ],
+  "id": 4,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1287,
+      "max": 7726,
+      "lvl100": 9355,
+      "lvl120": 10984
+    },
+    "hp": {
+      "min": 1699,
+      "max": 10623,
+      "lvl100": 12880,
+      "lvl120": 15138
+    }
+  },
+  "va": "Kawasumi Ayako",
+  "illustrator": "Takeuchi Takashi",
+  "attribute": "Earth",
+  "growthCurve": "S",
+  "stars": {
+    "absorption": 102,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.86%",
+    "def": "3%"
+  },
+  "deathRate": "21%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Arthur",
+    "Artoria Face",
+    "Dragon",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

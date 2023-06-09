@@ -1,0 +1,57 @@
+{
+  "name": "Gareth",
+  "jpName": "ガレス",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": null,
+  "id": 354,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1353,
+      "max": 8119,
+      "lvl100": 9830,
+      "lvl120": 11542
+    },
+    "hp": {
+      "min": 2205,
+      "max": 13783,
+      "lvl100": 16712,
+      "lvl120": 19641
+    }
+  },
+  "va": "Kuwahara Yuuki",
+  "illustrator": "Nekotawawa",
+  "attribute": "Earth",
+  "growthCurve": "Reverse S",
+  "stars": {
+    "absorption": 98,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "0.82%",
+    "def": "3%"
+  },
+  "deathRate": "31.5%",
+  "alignments": [
+    "Lawful",
+    "Summer"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Round Table Knight",
+    "Servant",
+    "Seven Knights Servant",
+    "Summer Mode Servant",
+    "Weak to Enuma Elish"
+  ]
+}

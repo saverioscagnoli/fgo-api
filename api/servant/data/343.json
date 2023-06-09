@@ -1,0 +1,59 @@
+{
+  "name": "Charlemagne",
+  "jpName": "シャルルマーニュ",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Charles the Great"
+  ],
+  "id": 343,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1856,
+      "max": 12015,
+      "lvl100": 13152,
+      "lvl120": 15438
+    },
+    "hp": {
+      "min": 2089,
+      "max": 14248,
+      "lvl100": 15609,
+      "lvl120": 18345
+    }
+  },
+  "va": "Kimura Ryōhei",
+  "illustrator": "Wada Arco",
+  "attribute": "Star",
+  "growthCurve": "Semi S",
+  "stars": {
+    "absorption": 102,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.48%",
+    "def": "3%"
+  },
+  "deathRate": "21%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Roman",
+    "Servant",
+    "Seven Knights Servant"
+  ]
+}

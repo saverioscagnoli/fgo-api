@@ -1,0 +1,58 @@
+{
+  "name": "Queen Medb",
+  "jpName": "女王メイヴ",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Medb"
+  ],
+  "id": 221,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1336,
+      "max": 8017,
+      "lvl100": 9707,
+      "lvl120": 11397
+    },
+    "hp": {
+      "min": 2177,
+      "max": 13609,
+      "lvl100": 16501,
+      "lvl120": 19393
+    }
+  },
+  "va": "Sakura Ayane",
+  "illustrator": "Takayama Kisai",
+  "attribute": "Earth",
+  "growthCurve": "Reverse S",
+  "stars": {
+    "absorption": 104,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.72%",
+    "def": "3%"
+  },
+  "deathRate": "31.5%",
+  "alignments": [
+    "Chaotic",
+    "Evil"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Hominidae Servant",
+    "Humanoid",
+    "King",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Summer Mode Servant",
+    "Weak to Enuma Elish"
+  ]
+}

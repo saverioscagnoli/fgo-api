@@ -1,0 +1,57 @@
+{
+  "name": "Yamanami Keisuke",
+  "jpName": "山南敬助",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Sannan"
+  ],
+  "id": 363,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1454,
+      "max": 8726,
+      "lvl100": 10565,
+      "lvl120": 12405
+    },
+    "hp": {
+      "min": 1999,
+      "max": 12498,
+      "lvl100": 15154,
+      "lvl120": 17810
+    }
+  },
+  "va": "Hirakawa Daisuke",
+  "illustrator": "Kibadori Rue",
+  "attribute": "Man",
+  "growthCurve": "Reverse S",
+  "stars": {
+    "absorption": 98,
+    "generation": "9.9%"
+  },
+  "npCharge": {
+    "atk": "0.81%",
+    "def": "3%"
+  },
+  "deathRate": "35%",
+  "alignments": [
+    "Lawful",
+    "Good"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Shinsengumi Servant",
+    "Weak to Enuma Elish"
+  ]
+}

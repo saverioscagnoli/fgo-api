@@ -1,0 +1,60 @@
+{
+  "name": "Yagyū Tajima-no-Kami Munenori",
+  "jpName": "柳生但馬守宗矩",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Yagyuu Munenori",
+    "Ryūtan",
+    "Saber Empíreo"
+  ],
+  "id": 187,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1666,
+      "max": 9999,
+      "lvl100": 12107,
+      "lvl120": 14215
+    },
+    "hp": {
+      "min": 1781,
+      "max": 11135,
+      "lvl100": 13501,
+      "lvl120": 15868
+    }
+  },
+  "va": "Yamaji Kazuhiro",
+  "illustrator": "Furumi Showichi",
+  "attribute": "Man",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 100,
+    "generation": "10.3%"
+  },
+  "npCharge": {
+    "atk": "0.81%",
+    "def": "3%"
+  },
+  "deathRate": "35%",
+  "alignments": [
+    "Lawful",
+    "Balanced"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Genji",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

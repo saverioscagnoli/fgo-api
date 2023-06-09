@@ -1,0 +1,64 @@
+{
+  "name": "Mordred",
+  "jpName": "モードレッド",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Knight of Treachery Saber of Red",
+    "The Knight of Londinium",
+    "Mordred the Silent",
+    "Mo-san"
+  ],
+  "id": 76,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1811,
+      "max": 11723,
+      "lvl100": 12833,
+      "lvl120": 15063
+    },
+    "hp": {
+      "min": 2153,
+      "max": 14680,
+      "lvl100": 16083,
+      "lvl120": 18901
+    }
+  },
+  "va": "Sawashiro Miyuki",
+  "illustrator": "Konoe Ototsugu",
+  "attribute": "Earth",
+  "growthCurve": "Semi Reverse S",
+  "stars": {
+    "absorption": 98,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.56%",
+    "def": "3%"
+  },
+  "deathRate": "24.5%",
+  "alignments": [
+    "Chaotic",
+    "Balanced"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Artoria Face",
+    "Costume-Owning",
+    "Dragon",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Round Table Knight",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

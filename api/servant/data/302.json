@@ -1,0 +1,59 @@
+{
+  "name": "Senji Muramasa",
+  "jpName": "千子村正",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Sengo Muramasa",
+    "Emiya Shirō"
+  ],
+  "id": 302,
+  "cost": 16,
+  "stats": {
+    "atk": {
+      "min": 1757,
+      "max": 11373,
+      "lvl100": 12449,
+      "lvl120": 14613
+    },
+    "hp": {
+      "min": 2153,
+      "max": 14680,
+      "lvl100": 16083,
+      "lvl120": 18901
+    }
+  },
+  "va": "Sugiyama Noriaki",
+  "illustrator": "Takeuchi Takashi",
+  "attribute": "Man",
+  "growthCurve": "Semi S",
+  "stars": {
+    "absorption": 100,
+    "generation": "9.8%"
+  },
+  "npCharge": {
+    "atk": "0.59%",
+    "def": "3%"
+  },
+  "deathRate": "35%",
+  "alignments": [
+    "Chaotic",
+    "Balanced"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Hominidae Servant",
+    "Humanoid",
+    "Living Human",
+    "Pseudo-Servant",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

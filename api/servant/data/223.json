@@ -1,0 +1,55 @@
+{
+  "name": "Diarmuid Ua Duibhne",
+  "jpName": "ディルムッド・オディナ",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": null,
+  "id": 223,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1674,
+      "max": 10048,
+      "lvl100": 12166,
+      "lvl120": 14285
+    },
+    "hp": {
+      "min": 1818,
+      "max": 11362,
+      "lvl100": 13776,
+      "lvl120": 16191
+    }
+  },
+  "va": "Midorikawa Hikaru",
+  "illustrator": "Azusa",
+  "attribute": "Earth",
+  "growthCurve": "Linear",
+  "stars": {
+    "absorption": 97,
+    "generation": "10.2%"
+  },
+  "npCharge": {
+    "atk": "0.73%",
+    "def": "3%"
+  },
+  "deathRate": "31.5%",
+  "alignments": [
+    "Lawful",
+    "Balanced"
+  ],
+  "gender": "Male",
+  "traits": [
+    "Brynhildr's Beloved",
+    "Hominidae Servant",
+    "Humanoid",
+    "Riding",
+    "Servant",
+    "Seven Knights Servant",
+    "Weak to Enuma Elish"
+  ]
+}

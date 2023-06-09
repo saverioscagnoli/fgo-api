@@ -1,0 +1,61 @@
+{
+  "name": "Katsushika Hokusai",
+  "jpName": "葛飾北斎",
+  "class": "saber",
+  "rarity": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "aka": [
+    "Katsushika Oui ; Tokitarō",
+    "Dragon-Crested Octopus",
+    "Darusen",
+    "The Old Man Mad About Art Manji"
+  ],
+  "id": 264,
+  "cost": 12,
+  "stats": {
+    "atk": {
+      "min": 1564,
+      "max": 9389,
+      "lvl100": 11368,
+      "lvl120": 13348
+    },
+    "hp": {
+      "min": 1899,
+      "max": 11873,
+      "lvl100": 14396,
+      "lvl120": 16919
+    }
+  },
+  "va": "Yukana",
+  "illustrator": "Kuroboshi Kouhaku",
+  "attribute": "Man",
+  "growthCurve": "Semi Reverse S",
+  "stars": {
+    "absorption": 99,
+    "generation": "10%"
+  },
+  "npCharge": {
+    "atk": "0.46%",
+    "def": "3%"
+  },
+  "deathRate": "28.8%",
+  "alignments": [
+    "Chaotic",
+    "Good"
+  ],
+  "gender": "Female",
+  "traits": [
+    "Divine",
+    "Hominidae Servant",
+    "Humanoid",
+    "Servant",
+    "Seven Knights Servant",
+    "Summer Mode Servant",
+    "Threat to Humanity",
+    "Weak to Enuma Elish"
+  ]
+}
