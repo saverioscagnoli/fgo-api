@@ -56,5 +56,11 @@
     "Servant",
     "Seven Knights Servant",
     "Weak to Enuma Elish"
-  ]
+  ],
+  "hits": {
+    "quick": 3,
+    "arts": 3,
+    "buster": 2,
+    "extra": 4
+  }
 }

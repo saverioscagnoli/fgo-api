@@ -57,5 +57,11 @@
     "Summer Mode Servant",
     "Threat to Humanity",
     "Weak to Enuma Elish"
-  ]
+  ],
+  "hits": {
+    "quick": 4,
+    "arts": 4,
+    "buster": 4,
+    "extra": 5
+  }
 }

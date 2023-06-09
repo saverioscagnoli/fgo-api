@@ -57,5 +57,11 @@
     "Shinsengumi Servant",
     "Summer Mode Servant",
     "Weak to Enuma Elish"
-  ]
+  ],
+  "hits": {
+    "quick": 5,
+    "arts": 4,
+    "buster": 3,
+    "extra": 5
+  }
 }

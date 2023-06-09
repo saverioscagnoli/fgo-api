@@ -33,6 +33,9 @@ declare global {
       IMAGES: string;
       TB: string;
       BASE_URL: string;
+      HITS: string;
+      SKILL_URLS: string;
+      SKILL_TABLE: string;
     }
   }
 }

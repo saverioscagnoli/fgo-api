@@ -53,5 +53,11 @@
     "Seven Knights Servant",
     "Shinsengumi Servant",
     "Weak to Enuma Elish"
-  ]
+  ],
+  "hits": {
+    "quick": 4,
+    "arts": 2,
+    "buster": 2,
+    "extra": 4
+  }
 }

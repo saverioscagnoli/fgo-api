@@ -56,5 +56,11 @@
     "Servant",
     "Shinsengumi Servant",
     "Weak to Enuma Elish"
-  ]
+  ],
+  "hits": {
+    "quick": 5,
+    "arts": 2,
+    "buster": 1,
+    "extra": 3
+  }
 }

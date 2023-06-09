@@ -6,7 +6,7 @@ import { existsSync, mkdirSync, writeFileSync } from "fs";
 import { join } from "path";
 
 type Wrapper = Cheerio<AnyNode>;
-type Tuple<T> = [T, T];
+type Tuple<T> = [T, ...T[]];
 
 const scrape = async (url: string, className: string): Promise<string> => {
   const { data } = await axios.get(url);
@@ -51,10 +51,11 @@ const scrape = async (url: string, className: string): Promise<string> => {
     deathRate: findDeathRate($, WRAPPER),
     alignments: findAlignments(WRAPPER),
     gender: findGender($, WRAPPER),
-    traits: findTraits(WRAPPER)
+    traits: findTraits(WRAPPER),
+    hits: findHits($, WRAPPER)
   };
 
-  findImages($, WRAPPER, scraped.id);
+  // findImages($, WRAPPER, scraped.id);
   writeFileSync(
     join(Paths.servant.data, `${scraped.id}.json`),
     JSON.stringify(scraped, null, 2)
@@ -280,6 +281,26 @@ const findImages = ($: CheerioAPI, wr: Wrapper, id: number): void => {
         titles.push(title);
       }
     });
+};
+
+const findHits = ($: CheerioAPI, wr: Wrapper) => {
+  let hits = wr
+    .find("b")
+    .filter((_, el) => $(el).text().trim() === process.env.HITS)
+    .parent()
+    .parent()
+    .text()
+    .split(":")[1]
+    .trim()
+    .split("|")
+    .map(h => +h.trim()[0]);
+
+  return {
+    quick: hits[0],
+    arts: hits[1],
+    buster: hits[2],
+    extra: hits[3]
+  };
 };
 
 const nav = async (url: string): Promise<void> => {

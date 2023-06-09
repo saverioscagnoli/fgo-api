@@ -52,5 +52,11 @@
     "Seven Knights Servant",
     "Summer Mode Servant",
     "Weak to Enuma Elish"
-  ]
+  ],
+  "hits": {
+    "quick": 3,
+    "arts": 4,
+    "buster": 5,
+    "extra": 5
+  }
 }

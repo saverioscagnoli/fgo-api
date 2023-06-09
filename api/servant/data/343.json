@@ -55,5 +55,11 @@
     "Roman",
     "Servant",
     "Seven Knights Servant"
-  ]
+  ],
+  "hits": {
+    "quick": 4,
+    "arts": 3,
+    "buster": 5,
+    "extra": 5
+  }
 }

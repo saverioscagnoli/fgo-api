@@ -59,5 +59,11 @@
     "Seven Knights Servant",
     "Stout Defender",
     "Weak to Enuma Elish"
-  ]
+  ],
+  "hits": {
+    "quick": 3,
+    "arts": 4,
+    "buster": 3,
+    "extra": 5
+  }
 }
